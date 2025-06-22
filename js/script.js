@@ -35,6 +35,8 @@ $(document).ready(function() {
 		$("#ships-button").removeClass("ships-button-active");
 		$("#shuffle").show();
 		$("#datepicker-button").show();
+		show_all_mode = false;
+		$("#show-all").removeClass("show-all-button-active");
 		showing_art = true;
 		showing_ships = false;
 		setUpGallery(images, tags, false);
@@ -51,6 +53,8 @@ $(document).ready(function() {
 		$("#art-button").removeClass("art-button-active");
 		$("#shuffle").hide();
 		$("#datepicker-button").hide();
+		show_all_mode = false;
+		$("#show-all").removeClass("show-all-button-active");
 		showing_ships = true;
 		showing_art = false;
 		setUpShips(ships, ship_tags, false);
