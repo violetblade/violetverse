@@ -131,7 +131,7 @@ body {
 	background-color: #9b59b6;
 }
 .modal-header {
-	border-bottom: 1px solid #e3ae98;
+	border-bottom: 1px solid #7d3c98;
 }
 
 .ship-modal-header{
@@ -357,21 +357,21 @@ a:hover, a:active {
 	background-color: #7d3c98;
 }
 .art-button-active:hover {
-	background-color: #e3ae98;
+	background-color: #7d3c98;
 }
 
 .ships-button-active {
 	background-color: #7d3c98;
 }
 .ships-button-active:hover {
-	background-color: #e3ae98;
+	background-color: #7d3c98;
 }
 
 .show-all-button-active {
 	background-color: #7d3c98;
 }
 .show-all-button-active:hover {
-	background-color: #e3ae98;
+	background-color: #7d3c98;
 }
 .accordion-button {
 	background-color: #9b59b6;
@@ -387,7 +387,7 @@ a:hover, a:active {
 	background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23000000'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");	
 }
 .accordion-body {
-	background-color: #e3ae98;
+	background-color: #7d3c98;
 	color: white;
 }
 .series-link {
@@ -417,7 +417,7 @@ a:hover, a:active {
 @media (max-width: 767px) {
 	/* Small devices (tablets, 768px and less) */
 	body {
-		background-color: #db8e72;
+		background-color: #c39bd3;
 	}
 	#gallery {
 		padding: 0;
@@ -429,7 +429,7 @@ a:hover, a:active {
 		float: left;
 	}
 	#gallery-container {
-		border-top: 1px solid #e3ae98;
+		border-top: 1px solid #7d3c98;
 	}
 	#sidebar {
 		border-bottom-left-radius: 0;
@@ -484,7 +484,7 @@ a:hover, a:active {
  		width: 100%;
  	}
  	#datepicker-button {
- 		margin-left: 0;
+ 		margin-left: 10px;
  	}
 }
 @media (min-width: 768px) and (max-width: 991px) {
@@ -499,7 +499,7 @@ a:hover, a:active {
 		float: left;
 	}
 	#gallery-container {
-		border-top: 1px solid #e3ae98;
+		border-top: 1px solid #7d3c98;
 	}
 	.title-underscore-container {
 		margin-top: 0;
@@ -551,6 +551,7 @@ a:hover, a:active {
  	#datepicker-button {
  		margin-left: 10px;
  	}
+
 }
 @media (min-width: 992px) and (max-width: 1199px) {
 	/* Medium devices (desktops, 992px and up) */
@@ -567,7 +568,7 @@ a:hover, a:active {
 		float: left;
 	}
 	.title-underscore-container {
-		border-bottom: 1px solid #e3ae98;
+		border-bottom: 1px solid #7d3c98;
 		width: 90%;
 		margin-left: 5%;
 	}
