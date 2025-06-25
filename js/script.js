@@ -10,7 +10,6 @@ var showing_ships = false;
 
 // When the document finished loading and is ready...
 $(document).ready(function() {
-	console.log("Hello");
 	$("#art-button").addClass("art-button-active");
 
 	// The gallery images from data.js
@@ -574,7 +573,6 @@ function extremeVerification() {
 // When a series link is clicked, then it closes the modal and changes the content and re-opens it with the new image
 function enableImageSeriesLinks() {
 	$(".series-link").click(function() {
-		console.log("enableImageseriesLinks check");
 		// This global variable is important so that closing the modal triggers the hide modal event only once
 		series_link_clicked = true;
 		$("#imageModal").modal("hide");
@@ -656,7 +654,12 @@ function showImagesThatMatch() {
 
 	// Show default images if tags have not been selected in the Filter
 	if (visible_tags.length == 0 && !show_all_mode && !date_picked) {
-		showDefaultImages();
+		if(showing_art == true) {
+			showDefaultImages();
+		}
+		else if (showing_ships == true) {
+			showDefaultShips();
+		}
 		return;
 	}
 
@@ -672,7 +675,12 @@ function showImagesThatMatch() {
 
 	if (show_all_mode) {
 		for (var i = 0; i < images.length; i++) {
-			searchCheck(search_str, i, images);
+			if(showing_art == true) {
+				searchCheck(search_str, i, images);
+			}
+			else if (showing_ships == true ){
+				shipsearchCheck(search_str, i, images);
+			}
 		}
 	}
 	else {
@@ -682,7 +690,12 @@ function showImagesThatMatch() {
 			// The interesection of selected tags and image tags must be the same number of elements as the number of selected tags
 			// This will give danbooru style logic where an image must include the selected tags
 			if (intersect(visible_tags, tags_arr).length == visible_tags.length) {
-				searchCheck(search_str, i, images);
+				if(showing_art == true) {
+					searchCheck(search_str, i, images);
+				}
+				else if(showing_ships == true ) {
+					shipSearchCheck(search_str, i, images)
+				}
 			}
 			else {
 				$("#img"+i).hide();
@@ -694,7 +707,6 @@ function showImagesThatMatch() {
 		$(".nsfw").parent().hide();
 	}
 
-	extremeTagCheck();
 
 	// Hide hidden images no matter what
 	$(".hidden-image").hide();
@@ -729,7 +741,7 @@ function showDefaultShips() {
 		var tags_arr = ships[i].tags;
 
 		var search_str = document.getElementById("search-bar").value.toLowerCase();
-		searchCheck(search_str, i, ships);
+		shipSearchCheck(search_str, i, ships);
 	}
 	$(".hidden-image").hide();
 	updateImageCountLabel();
@@ -782,9 +794,18 @@ function searchCheck(search_str, image_index, images) {
 	}
 }
 
-// Hide extreme tags that should only show when selected
-function extremeTagCheck() {
-	if (!tags_to_show["extreme"]) {
-		$(".extreme").parent().hide();
+function shipSearchCheck(search_str, image_index, images) {
+
+	if (search_str == "") {
+		$("#img"+image_index).show();
+	}
+	else {
+		// The search bar is not empty, so check the data fields for matches
+		if (images[image_index].title.toLowerCase().includes(search_str)) {
+			$("#img"+image_index).show();
+		}
+		else {
+			$("#img"+image_index).hide();
+		}
 	}
 }
