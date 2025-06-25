@@ -399,6 +399,10 @@ a:hover, a:active {
 	color: #959ccf;
 }
 
+.jank-break{
+	display: none;
+}
+
 .shipModalImage {
 	height: 400px;
 	width: 800px;	
@@ -477,6 +481,15 @@ a:hover, a:active {
 	.gallery-buttons-container {
 		float: left;
 	}
+
+	.buttons-border{
+		display: none;
+	}
+
+	.jank-break{
+		display: block;
+	}
+
 	#tulipcei {
 		width: 80%;
 	}
