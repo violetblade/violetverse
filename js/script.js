@@ -79,7 +79,13 @@ $(document).ready(function() {
 			// Toggle of show all mode which will revert to default images
 			show_all_mode = false;
 			$(this).removeClass("show-all-button-active");
-			showDefaultImages();
+			if(showing_art == true ){ 
+						showDefaultImages();
+
+			}
+			else {
+				showDefaultShips();
+			}
 			return;
 		}
 		else {
@@ -106,7 +112,6 @@ $(document).ready(function() {
 		for (var i = 0; i < images.length; i++) {
 			$("#img"+i).show();
 		}
-		extremeTagCheck();
 		$(".hidden-image").hide();
 		updateImageCountLabel();
 	});
@@ -679,7 +684,7 @@ function showImagesThatMatch() {
 				searchCheck(search_str, i, images);
 			}
 			else if (showing_ships == true ){
-				shipsearchCheck(search_str, i, images);
+				shipSearchCheck(search_str, i, images);
 			}
 		}
 	}
