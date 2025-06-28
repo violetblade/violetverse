@@ -28,11 +28,11 @@ var all_ships = {
 			+ "This Robin was also transported to Elibe to serve as the tactician during the events of Blazing Blade.",
 			quote: "Defiers of Fate",
 			status: "Married",
-			history: "In Askr, Robin was summoned before Lucina was. They are reunited during the later chapters of <a href='https://archiveofourown.org/works/29415720'>Dealing with the Doppelganger</a>."
-			+ "During <a href='https://archiveofourown.org/works/30375198'>My Doppelganger's Daughter</a>, they are reunited with their Morgan. From then on, they help out with matters throughout the Order," +
-			" This includes guiding Morgan and Larcei's budding relationship, like in <a href='https://archiveofourown.org/works/38816208'>A Tactician's Promise.</a>.<br/><br> In Askr, neither of them can resist seeing" +
-			" the other in all their new outfits, mainly Lucina seeing Robin's boyband outfit in <a href='https://archiveofourown.org/works/31382966'>Fame and Fortuna.</a> and his Brave outfit in <a href='https://archiveofourown.org/works/49792477'>The Tactician's New Clothes.</a>"
-			+ "<br/><br/> In an alternative world, the two of them are both attending University. During <a href='https://archiveofourown.org/works/44397979'>New Year's Scramble</a>, there's a bit of awkwardness as they deal with the revelation of Robin's family, but they overcome it at the end.",
+			history: "In Askr, Robin was summoned before Lucina was, though she's eventually summoned and <a href='https://archiveofourown.org/works/29415720'> meets her counterpart 'Marth'</a>."
+			+ "Later on, <a href='https://archiveofourown.org/works/30375198'>they are reunited with their Morgan</a>. From then on, they help out with matters throughout the Order," +
+			" This includes guiding <a href='https://archiveofourown.org/works/38816208'>Morgan and Larcei's budding relationship</a>.<br/><br> In Askr, neither of them can resist seeing" +
+			" the other in all their new outfits, mainly Lucina seeing Robin's <a href='https://archiveofourown.org/works/31382966'>boyband outfit.</a> in and his <a href='https://archiveofourown.org/works/49792477'>Brave Outfit.</a>."
+			+ "<br/><br/> In an alternative world, the two of them are <a href='https://archiveofourown.org/works/44397979'>attending University</a>. There's a bit of awkwardness as they deal with the revelation of Robin's family, but they overcome it at the end.",
 			tags: ["fe"],
 			hidden: false
 		},
@@ -65,9 +65,9 @@ var all_ships = {
 			desc: "The Engage OTP. I really loved their supports so continuing the ship in Askr was a no-brainer. Citrinne and Diamant are very much shippers-on-deck for them.",
 			quote: "Brodia's Tenderest Pair",
 			status: "Engaged",
-			history: "In <a href='https://archiveofourown.org/works/44719414'>A Fall into Love</a>, there's a bit of an incident that results Alcryst and Lapis' first kiss, alongw ith some awkwardness afterwards," +
-			" though that ends with them finally becoming a couple. Their relationship continues to develop during <a href='https://archiveofourown.org/works/45281974'>Deserving</a>, to the point where Alcryst" + 
-			" proposes in Lapis' hometown. Their summoning to Askr has put a delay in their wedding plans, so they spend their time in the Order continuing to support each other, like in <a href='https://archiveofourown.org/works/49810039'>Proper Motivation</a>.",
+			history: "In, there's a <a href='https://archiveofourown.org/works/44719414'>bit of an incident</a> that results Alcryst and Lapis' first kiss, along with some awkwardness afterwards," +
+			" though that ends with them finally becoming a couple. Their relationship continues <a href='https://archiveofourown.org/works/45281974'>to develop</a>, to the point where Alcryst" + 
+			" proposes in Lapis' hometown. Their summoning to Askr has put a delay in their wedding plans, so they spend their time in the Order continuing to <a href='https://archiveofourown.org/works/49810039'>support each other</a>.",
 			tags: ["fe"],
 			hidden: false
 		},
@@ -99,7 +99,7 @@ var all_ships = {
 			character_2:"Kiria",
 			timeline_2:"Tokyo Mirage Sessions",
 			desc: "The pinnacle of my crackships. These two work so well together. Both of them got the cool, mysterious vibe going on, but are secretly sweet to each other in private. I will continue to spread the agenda.",
-			quote: "Cool and Collected",
+			quote: "Cool Couple",
 			status: "Married",
 			history: "The two met when Kiria came across <a href='https://archiveofourown.org/works/31382966'>Shamir secretly dancing</a>. Needing a partner for Fortuna's first major concert in Askr, Kiria recruited her. The two grew closer over the course of their practices, and hooked up afterwards"
 			+ " The two spent plenty of time together, and Shamir grew to be quite <a href='https://archiveofourown.org/works/33681226'>fond of all of Kiria's outfits</a>. On a beach trip, they ended up proposing to each other at the same time, and were married on the spot by Tharja. Eventually, when their duty in Askr"
@@ -119,12 +119,12 @@ var all_ships = {
 			timeline_2:"Main Granblue Timeline - Singularity Djeeta",
 			desc: "Katalina is my favorite Granblue character so I've stuck a bunch of perpetuity rings on her and ship her with Gran. In this Granblue-verse, Djeeta is the Singularity while Gran is a neighbor a few years older and is caught up in the" +
 			" game's opening chapters. Now, given the recent reveal that MC's dad just looks like Gran, I'm going to need to figure something out how to explain it. Until I do, this is the premise I'm going with.",
-			quote: "The Grandcypher's Azure Knights",
+			quote: "Azure Knights",
 			status: "Dating",
 			history: "During Granblue's opening chapters, Gran is caught up in his neighbor, Djeeta's, attempts to help out Lyria and Katalina. Afterwards, he is brought along on the journey, eventually becoming Djeeta's vice captain. " +
-			"He and Katalina serve as the most responible people on the ship and work closely together, eventually sparking feelings between them. In <a href='https://archiveofourown.org/works/50153392'>Reflections and Inspirations</a>" +
-			" A trip back to Zinkenstill leads the two to reflect on their journey together, and share their first kiss. Afterwards, they remain serious in helping guide the Grandcypher's crew, but every now and again, they take some time to " +
-			"indulge in one another, like in <a href='https://archiveofourown.org/works/50177683'>Love Letters</a>.",
+			"He and Katalina serve as the most responible people on the ship and work closely together, eventually sparking feelings between them. During <a href='https://archiveofourown.org/works/50153392'>a trip back to Zinkenstill</a>" +
+			" leads the two to reflect on their journey together, and share their first kiss. Afterwards, they remain serious in helping guide the Grandcypher's crew, but every now and again, they take some time to " +
+			"<a href='https://archiveofourown.org/works/50177683'>indulge in one another</a>.",
 			tags: ["non_fe", "granblue"],
 			hidden: false
 		},
@@ -140,7 +140,7 @@ var all_ships = {
 			desc: "My two favorite Trails girls. This is very much a crackship as they have not interacted once, and Falcom committed the crime of not including Rixia in Cold Steel IV, but I think they would look cute together. Maybe it's all the purple.",
 			quote: "Violet Shadow, Violet Heart",
 			status: "Pseudo-Married",
-			history: "In <a href='https://archiveofourown.org/works/48021256'>Violet Shadow, Violet Heart</a>, the two meet during the events of Trails to Azure when Kloe sees Rixia dance and is enraptured immediately. The two strike up a friendship (and in Kloe's case a very obvious crush), and begin" + 
+			history: "The two meet during the events of Trails to Azure when <a href='https://archiveofourown.org/works/48021256'>Kloe sees Rixia dance</a> and is enraptured immediately. The two strike up a friendship (and in Kloe's case a very obvious crush), and begin" + 
 			" to exchange letters. The events of Azure get to Rixia and she attempts to cut off contact, but afterwards goes to meet with Kloe and reveals her backstory to her. The two continue to exchange letters until the night before the Great War. Rixia, having finally realized her own " +
 			"feelings for Kloe, returns to Grancel Castle, and the two dance, confess, and share their first kiss and night together. Afterwards, the two begin a long distance relationship, one that their friends are <a href='https://archiveofourown.org/works/50263552'>very interested in following</a>. Later, " +
 			"before the events of Trails into Daybreak, both end up in wedding dresses and end up in <a href='https://archiveofourown.org/works/56621407'> mock wedding ceremony officiated by Sieg</a>. Despite it not being official, and the two wanting to have a proper ceremony one day, the two begin to act as if they're actually" +
