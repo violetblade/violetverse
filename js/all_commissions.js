@@ -1105,6 +1105,20 @@
 			hidden: false
 		},
 		{
+			//Motoi| Annette | Annette of the Valley of the Wind
+			src: ["https://cdn.imgchest.com/files/yvdcwdevd5y.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7kzcabo5bp7.png",
+			title: "Annette of the Valley of the Wind",
+			artist: "Motoiwork",
+			artist_url: "https://skeb.jp/@motoiwork",
+			art_url: null,
+			desc: "The Warrior of the Wind-I mean Annette of the Valley of the Wind. Annette as Nausicaa. For <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>Mythic's</a></strong> birthday.",
+			quote: "Please, dear God, please hear this prayer, you must protect the people of the Valley.",
+			date_str: "June 2025",
+			tags: ["sfw", "fe", "solo", "gifts_given"],
+			hidden: false
+		},
+		{
 			//
 			src: [""],
 			thumbnail: "",
