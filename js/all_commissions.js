@@ -272,7 +272,7 @@
 			desc: "Ilsa finally finds her love story with Heles. Classified as NSFW because of Erune fashion sense.",
 			quote: "I never thought I'd fall in love with an actual princess...",
 			date_str: "Sep 2022",
-			tags: ["nsfw", "non_fe", "granblue"],
+			tags: ["nsfw", "non_fe", "granblue", "ilsa_heles"],
 			hidden: false
 		},
 		{
@@ -808,7 +808,7 @@
 			desc: "Heles spirits Ilsa away during the festival, hoping to have a lovely discussion. Featuring Ilsa's yukata alt and Heles' anniversary costume.",
 			quote: "Your subordinates won't mind if I steal you away for the night.",
 			date_str: "Sep 2024",
-			tags: ["sfw", "fe", "granblue"],
+			tags: ["sfw", "fe", "granblue", "ilsa_heles"],
 			hidden: false
 		},		
 		{
@@ -1129,7 +1129,7 @@
 			desc: "Ilsa giving a princess carry and kiss to Heles. Ilsa is in her Formal alt (which has caused incredible brainrot), and Heles is in her anniversary costume.",
 			quote: "I can't seem to resist you in that dress...",
 			date_str: "June 2025",
-			tags: ["sfw", "granblue", "Ilsa/Heles"],
+			tags: ["sfw", "granblue", "ilsa_heles"],
 			hidden: false
 		},
 		{

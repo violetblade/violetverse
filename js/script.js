@@ -432,6 +432,7 @@ function translateWord(word) {
 		ayra_altina: "💕 Ayra/Altina",
 		alcryst_lapis: "💕 Alcryst/Lapis",
 		kloe_rixia: "💕 Kloe/Rixia",
+		ilsa_heles: "💕 Ilsa/Heles",
 		other_ships: "💕 Other Ships",
 		solo: "👤 Solo Character",
 		fe: "🔥 Fire Emblem",
