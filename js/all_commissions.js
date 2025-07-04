@@ -10,7 +10,7 @@
 			desc: "Do not delete this. You can use this to set the order the tags show up in the dropdown.",
 			quote: "Placeholder Quote",
 			date_str: "Beginning of Time",
-			tags: ["sfw", "nsfw", "gifts_received", "gifts_given","male_robin_lucina", "female_robin_lucina", "shamir_kiria", "ike_mia", "mia_lucina", "larcei_morgan", "ayra_altina", "alcryst_lapis", "kloe_rixia", "other_ships", "solo", "mmd", "fe",
+			tags: ["sfw", "nsfw", "gifts_received", "gifts_given","male_robin_lucina", "female_robin_lucina", "shamir_kiria", "ike_mia", "mia_lucina", "larcei_morgan", "ayra_altina", "alcryst_lapis", "kloe_rixia", "ilsa_heles", "other_ships", "solo", "mmd", "fe",
 					"non_fe", "pokemon", "granblue", "trails", "twewy"],
 			hidden: true
 		},
@@ -1116,6 +1116,20 @@
 			quote: "Please, dear God, please hear this prayer, you must protect the people of the Valley.",
 			date_str: "June 2025",
 			tags: ["sfw", "fe", "solo", "gifts_given"],
+			hidden: false
+		},
+		{
+			//Fusenryo2| Ilsa/Heles | Princess Carry
+			src: ["https://cdn.imgchest.com/files/739cx6wpeb7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcnkmxe84.png",
+			title: "Princess Carry",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "Ilsa giving a princess carry and kiss to Heles. Ilsa is in her Formal alt (which has caused incredible brainrot), and Heles is in her anniversary costume.",
+			quote: "I can't seem to resist you in that dress...",
+			date_str: "June 2025",
+			tags: ["sfw", "granblue", "Ilsa/Heles"],
 			hidden: false
 		},
 		{

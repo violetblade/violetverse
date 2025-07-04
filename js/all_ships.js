@@ -594,7 +594,7 @@ var all_ships = {
 		},
 		{
 			// Heles/Ilsa
-			src: ["https://cdn.imgchest.com/files/4gdcxn9kwz4.png", "https://cdn.imgchest.com/files/y8xcnpgbvd4.png"],
+			src: ["https://cdn.imgchest.com/files/4gdcxn9kwz4.png", "https://cdn.imgchest.com/files/y8xcnpgbvd4.png", "https://cdn.imgchest.com/files/y2pckolp287.png"],
 			thumbnail: "https://cdn.imgchest.com/files/45xcvemlga7.png",
 			title: "Ilsa/Heles",
 			character_1: "Ilsa",
