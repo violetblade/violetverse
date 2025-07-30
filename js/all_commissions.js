@@ -1009,7 +1009,7 @@
 		{
 			//fusenryo2 | Eeby | Eebnes Obligeeb
 			src: ["https://cdn.imgchest.com/files/yxkczoev9x7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/7ogcbn2r35y.png",
+			thumbnail: "https://cdn.imgchest.com/files/7kzca36op27.png",
 			title: "Eebnes Obligeeb",
 			artist: "Fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
@@ -1105,7 +1105,7 @@
 			hidden: false
 		},
 		{
-			//Motoi| Annette | Annette of the Valley of the Wind
+			//Motoi | Annette | Annette of the Valley of the Wind
 			src: ["https://cdn.imgchest.com/files/yvdcwdevd5y.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7kzcabo5bp7.png",
 			title: "Annette of the Valley of the Wind",
@@ -1119,7 +1119,7 @@
 			hidden: false
 		},
 		{
-			//Fusenryo2| Ilsa/Heles | Princess Carry
+			//Fusenryo2 | Ilsa/Heles | Princess Carry
 			src: ["https://cdn.imgchest.com/files/739cx6wpeb7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y8xcnkmxe84.png",
 			title: "Princess Carry",
@@ -1128,8 +1128,64 @@
 			art_url: null,
 			desc: "Ilsa giving a princess carry and kiss to Heles. Ilsa is in her Formal alt (which has caused incredible brainrot), and Heles is in her anniversary costume.",
 			quote: "I can't seem to resist you in that dress...",
-			date_str: "June 2025",
+			date_str: "July 2025",
 			tags: ["sfw", "granblue", "ilsa_heles"],
+			hidden: false
+		},
+		{
+			//Aegis Asu | Creidne/Mo-Mo | Not a Substitute
+			src: ["https://cdn.imgchest.com/files/yrgcnax2rd4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c32kjrm4.png",
+			title: "Not a Substitute",
+			artist: "Aegis Asu",
+			artist_url: "https://x.com/Aegis_Asu2",
+			art_url: null,
+			desc: "Creidne and Mo-Mo sharing a kiss.",
+			quote: "You seem a bit grumpy today, Mo-Mo. I've got just the thing to cheer you up though.",
+			date_str: "July 2025",
+			tags: ["sfw", "fe", "other_ships"],
+			hidden: false
+		},
+		{
+			//Motoiwork | Shamir/Kiria | Nurse Visit
+			src: ["https://cdn.imgchest.com/files/7lxcpra8l37.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcnax2g84.png",
+			title: "Nurse Visit",
+			artist: "Motoiwork",
+			artist_url: "https://skeb.jp/@motoiwork",
+			art_url: null,
+			desc: "Kiria dresses up as a nurse for a bit of roleplay with Shamir. For Kiria's birthday.'",
+			quote: "It's time for your physical, Ms. Nevrand.",
+			date_str: "July 2025",
+			tags: ["sfw", "fe", "shamir_kiria"],
+			hidden: false
+		},
+		{
+			//Madras | Kloe/Rixia | On Her Knees
+			src: ["https://cdn.imgchest.com/files/4jdcv3x5jw4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ye3c28vmbb4.png",
+			title: "On Her Knees",
+			artist: "Madras",
+			artist_url: "https://x.com/theOtherMadras",
+			art_url: null,
+			desc: "A princess doesn't usually kneel for someone else. For Rixia though, Kloe loves to.",
+			quote: "I hope this is to your satisfaction, Rixia.",
+			date_str: "July 2025",
+			tags: ["nsfw", "trails", "kloe_rixia"],
+			hidden: false
+		},
+		{
+			//
+			src: ["https://cdn.imgchest.com/files/yq9c32k9eb4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7kzcawpqnd7.png",
+			title: "To the Wall",
+			artist: "Daikikin",
+			artist_url: "https://skeb.jp/@Daikikin",
+			art_url: "https://skeb.jp/@Daikikin/works/570",
+			desc: "On Mia's suggestion, Robin and Lucina try a new position.",
+			quote: "We should've tried this ages ago.",
+			date_str: "July 2025",
+			tags: ["nsfw", "fe", "male_robin_lucina"],
 			hidden: false
 		},
 		{

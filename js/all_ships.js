@@ -493,7 +493,7 @@ var all_ships = {
 		},
 		{
 			//Mo-Mo/Creidne
-			src: ["https://cdn.imgchest.com/files/4gdcxn9mpp4.png"],
+			src: ["https://cdn.imgchest.com/files/4gdcxn9mpp4.png", "https://cdn.imgchest.com/files/yxkczkplxw7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y8xcnpgqkq4.png",
 			title: "Mo-Mo/Creidne",
 			character_1: "Mo-Mo (Morgan)",
