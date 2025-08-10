@@ -1129,7 +1129,7 @@
 			desc: "Ilsa giving a princess carry and kiss to Heles. Ilsa is in her Formal alt (which has caused incredible brainrot), and Heles is in her anniversary costume.",
 			quote: "I can't seem to resist you in that dress...",
 			date_str: "July 2025",
-			tags: ["sfw", "granblue", "ilsa_heles"],
+			tags: ["sfw", "non_fe", "granblue", "ilsa_heles"],
 			hidden: false
 		},
 		{
@@ -1171,11 +1171,11 @@
 			desc: "A princess doesn't usually kneel for someone else. For Rixia though, Kloe loves to.",
 			quote: "I hope this is to your satisfaction, Rixia.",
 			date_str: "July 2025",
-			tags: ["nsfw", "trails", "kloe_rixia"],
+			tags: ["nsfw","non_fe", "trails", "kloe_rixia"],
 			hidden: false
 		},
 		{
-			//
+			// Daikikin | Robin/Lucina | To the Wall
 			src: ["https://cdn.imgchest.com/files/yq9c32k9eb4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7kzcawpqnd7.png",
 			title: "To the Wall",
@@ -1186,6 +1186,34 @@
 			quote: "We should've tried this ages ago.",
 			date_str: "July 2025",
 			tags: ["nsfw", "fe", "male_robin_lucina"],
+			hidden: false
+		},
+		{
+			//Rin | Shamir/Kiria | Fated Meeting
+			src: ["https://cdn.imgchest.com/files/49zc293aazy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7kzcawkvvj7.png",
+			title: "Fated Meeting",
+			artist: "TwiliRin",
+			artist_url: "https://bsky.app/profile/did:plc:5abwiczoddn222iwg4nbgmzj",
+			art_url: null,
+			desc: "Shamir's new team leader, Kiria, has an...interesting outfit, but she seems nice. They'll probably get along.",
+			quote: "You're Kiria Kurono huh? Let's see what you've got.",
+			date_str: "August 2025",
+			tags: ["sfw", "fe", "shamir_kiria"],
+			hidden: false
+		},
+		{
+			//Fusenryo2 | Djeeta/Zeta | After Tart Man
+			src: ["https://cdn.imgchest.com/files/7pjcqd2aad7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5cegakk24.png",
+			title: "After Tart Man",
+			artist: "Fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "After surviving...Tart Man, Djeeta and Zeta make sure to take a day to themselves...",
+			quote: "After that Unite and Fight, I'm keeping you to myself for the next week <em>at least</em>.",
+			date_str: "August 2025",
+			tags: ["sfw", "non_fe", "granblue", "other_ships"],
 			hidden: false
 		},
 		{

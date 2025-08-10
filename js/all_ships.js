@@ -577,7 +577,7 @@ var all_ships = {
 		},
 				{
 			// Djeeta/Zeta
-			src: ["https://cdn.imgchest.com/files/7w6c2rnabpy.png"],
+			src: ["https://cdn.imgchest.com/files/7w6c2rnabpy.png", "https://cdn.imgchest.com/files/46acq3povk7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/739cx352eo7.png",
 			title: "Djeeta/Zeta",
 			character_1: "Djeeta",
