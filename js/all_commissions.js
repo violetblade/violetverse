@@ -1217,6 +1217,20 @@
 			hidden: false
 		},
 		{
+			//Motoiwork | Manuela | Preventer Wine
+			src: ["https://cdn.imgchest.com/files/yq9c3w59kr4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ye3c29pm2l4.png",
+			title: "Preventer Wine",
+			artist: "Motoiwork",
+			artist_url: "https://skeb.jp/@motoiwork",
+			art_url: null,
+			desc: "Manuela joins...the Preventers from Gundam Wing? For a friend's birthday.",
+			quote: "Preventer Wine, reporting for duty.",
+			date_str: "August 2025",
+			tags: ["sfw", "non_fe", "gifts_given"],
+			hidden: false
+		},
+		{
 			//
 			src: [""],
 			thumbnail: "",
