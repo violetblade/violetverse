@@ -1227,7 +1227,105 @@
 			desc: "Manuela joins...the Preventers from Gundam Wing? For a friend's birthday.",
 			quote: "Preventer Wine, reporting for duty.",
 			date_str: "August 2025",
-			tags: ["sfw", "non_fe", "gifts_given"],
+			tags: ["sfw", "fe", "gifts_given"],
+			hidden: false
+		},
+		{
+			//Motoiwork | Corrin | Cozy Corrin
+			src: ["https://cdn.imgchest.com/files/656f5e29cc15.png"],
+			thumbnail: "https://cdn.imgchest.com/files/812656ab662c.png",
+			title: "Cozy Corrin",
+			artist: "Motoiwork",
+			artist_url: "https://skeb.jp/@motoiwork",
+			art_url: null,
+			desc: "Corrin enjoys some coffee on an autumn day. For <strong><a href='https://bsky.app/profile/twilidragonrin.bsky.social'>TwiliRin's</a></strong> birthday.",
+			quote: "Oh! I've been waiting for you.",
+			date_str: "September 2025",
+			tags: ["sfw", "gifts_given", "fe"],
+			hidden: false
+		},
+		{
+			//B_PearlWhite | M!Robin/Lucina | The Cute Gladiator
+			src: ["https://cdn.imgchest.com/files/e3f0463794ea.png"],
+			thumbnail: "https://cdn.imgchest.com/files/8c637f9e1a5f.png",
+			title: "The Cute Gladiator",
+			artist: "B_PearlWhite",
+			artist_url: "https://x.com/B_PearlWhite",
+			art_url: "https://x.com/B_PearlWhite/status/1963911978537394269/",
+			desc: "Robin, confidence gained from the Dread Fighter outfit, decides to rizz up the cute gladiator he's up against.",
+			quote: "You are the opposing tactician? I am Marth. For the duration of this tournament, I will not be holding-h-huh!? W-what are you-? T-this seems a bit unnecessary...",
+			date_str: "September 2025",
+			tags: ["sfw", "male_robin_lucina", "fe"],
+			hidden: false
+		},
+		{
+			//hitsujiniku_12 | F!Robin/Lucina | Falling to the Sand
+			src: ["https://cdn.imgchest.com/files/33b7436a6b7f.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4678be4e7daf.png",
+			title: "Falling to the Sand",
+			artist: "hitsujiniku_12",
+			artist_url: "https://skeb.jp/@hitsujiniku_12",
+			art_url: "https://skeb.jp/@hitsujiniku_12/works/121",
+			desc: "Lucina made sure to do all her favorite things to do at the beach: swim a little, play some volleyball, get pinned down to the sand by Robin and-",
+			quote: "It wouldn't be a perfect beach date if I didn't show you a good time...",
+			date_str: "September 2025",
+			tags: ["nsfw", "female_robin_lucina", "fe"],
+			hidden: false
+		},
+		{
+			//DeebyFeeby | Mia/Lucina | Society's Finest
+			src: ["https://cdn.imgchest.com/files/29340d91d829.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7023fcf6c8a6.png",
+			title: "Society's Finest",
+			artist: "DeebyFeeby",
+			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
+			art_url: "https://bsky.app/profile/deebyfeeby.bsky.social/post/3lyihxupoyk2y",
+			desc: "Mia and Lucina dressed in Zeta and Beatrix's casual outfits from Granblue Fantasy.",
+			quote: "Caught you staring~",
+			date_str: "September 2025",
+			tags: ["sfw", "mia_lucina", "fe", "granblue"],
+			hidden: false
+		},
+		{
+			//Halki | Shamir/Kiria | Lax Patrol
+			src: ["https://cdn.imgchest.com/files/d6f5a3983821.png"],
+			thumbnail: "https://cdn.imgchest.com/files/c33beb1e8017.png",
+			title: "Lax Patrol",
+			artist: "Halki",
+			artist_url: "https://skeb.jp/@nm_ccol",
+			art_url: null,
+			desc: "Shamir and Kiria taking their wall patrol a little less seriously than one might think.",
+			quote: "You look so cute Shamir, trying not to scream for me like that...",
+			date_str: "September 2025",
+			tags: ["nsfw", "shamir_kiria", "fe"],
+			hidden: false
+		},
+		{
+			//fusenryo2 | Ephraim/Elincia | Hidden Away in the Moonlight
+			src: ["https://cdn.imgchest.com/files/268db9028285.png"],
+			thumbnail: "https://cdn.imgchest.com/files/a62d51f424ff.png",
+			title: "Hidden Away in the Moonlight",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "A reprieve in their duties as new rulers gives Ephraim and Elincia time to not just indulge in Askr's many festivities, but also each other. Elincia is in her Hoshidan kimono alt while Ephraim is in his Day of Devotion alt.",
+			quote: "I've been waiting all day to have you to myself.",
+			date_str: "September 2025",
+			tags: ["sfw", "other_ships", "fe"],
+			hidden: false
+		},
+		{
+			//rinrinappleple | Neku/Shiki | My World Begins With You
+			src: ["https://cdn.imgchest.com/files/b73bc0138d32.png", "https://cdn.imgchest.com/files/9f298f1d1b54.png"],
+			thumbnail: "https://cdn.imgchest.com/files/8a88002d8f4d.png",
+			title: "My World Begins With You",
+			artist: "rinrinappleple",
+			artist_url: "https://skeb.jp/@rinrinappleple",
+			art_url: null,
+			desc: "Neku and Shiki spending some well deserved time together after...like everything. A gift from <strong><a href='https://bsky.app/profile/exaltedbrand.bsky.social'>Eeby</a></strong>",
+			quote: "I'm so glad you're home, Neku.",
+			date_str: "September 2025",
+			tags: ["sfw", "other_ships", "non_fe"],
 			hidden: false
 		},
 		{
