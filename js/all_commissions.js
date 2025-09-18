@@ -1325,7 +1325,7 @@
 			desc: "Neku and Shiki spending some well deserved time together after...like everything. A gift from <strong><a href='https://bsky.app/profile/exaltedbrand.bsky.social'>Eeby</a></strong>",
 			quote: "I'm so glad you're home, Neku.",
 			date_str: "September 2025",
-			tags: ["sfw", "other_ships", "non_fe"],
+			tags: ["sfw", "other_ships", "non_fe", "gifts_received"],
 			hidden: false
 		},
 		{
