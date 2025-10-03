@@ -1325,7 +1325,35 @@
 			desc: "Neku and Shiki spending some well deserved time together after...like everything. A gift from <strong><a href='https://bsky.app/profile/exaltedbrand.bsky.social'>Eeby</a></strong>",
 			quote: "I'm so glad you're home, Neku.",
 			date_str: "September 2025",
-			tags: ["sfw", "other_ships", "non_fe", "gifts_received"],
+			tags: ["sfw", "other_ships", "non_fe", "gifts_received", "twewy"],
+			hidden: false
+		},
+		{
+			//Wwitchi | Ike/Mia | Before the final battle
+			src: ["https://cdn.imgchest.com/files/5878cab7ce10.png"],
+			thumbnail: "https://cdn.imgchest.com/files/d74417940c05.png",
+			title: "Before the Final Battle",
+			artist: "Wwitchii",
+			artist_url: "https://x.com/wwitchii_",
+			art_url: "https://x.com/wwitchii_/status/1970661965040345201",
+			desc: "Ike unexpectedly showing a bit of affection to Mia before they fight Ashera.",
+			quote: "E-Eh...Boss, are you feeling alright? What brought this on?",
+			date_str: "September 2025",
+			tags: ["sfw", "ike_mia", "fe"],
+			hidden: false
+		},
+		{
+			//fusenryo | Eliwood/Lyn/Azura | Taking her mind off of things
+			src: ["https://cdn.imgchest.com/files/ba2e79ee3d55.png"],
+			thumbnail: "https://cdn.imgchest.com/files/64a03fee6a6e.png",
+			title: "Taking Her Mind Off Of Things",
+			artist: "Fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "Lyn getting sandwiched by Eliwood and Azura and getting a little bit of love.",
+			quote: "Alright you two, I've just had a...weird dream, and need you guys to take my mind off of it.",
+			date_str: "September 2025",
+			tags: ["sfw", "other_ships", "fe"],
 			hidden: false
 		},
 		{
