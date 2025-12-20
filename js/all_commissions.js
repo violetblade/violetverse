@@ -10,7 +10,7 @@
 			desc: "Do not delete this. You can use this to set the order the tags show up in the dropdown.",
 			quote: "Placeholder Quote",
 			date_str: "Beginning of Time",
-			tags: ["sfw", "nsfw", "gifts_received", "gifts_given","male_robin_lucina", "female_robin_lucina", "shamir_kiria", "ike_mia", "mia_lucina", "larcei_morgan", "ayra_altina", "alcryst_lapis", "kloe_rixia", "ilsa_heles", "other_ships", "solo", "mmd", "fe",
+			tags: ["sfw", "nsfw", "gifts_received", "gifts_given","male_robin_lucina", "female_robin_lucina", "shamir_kiria", "ike_mia", "mia_lucina", "larcei_morgan", "ayra_altina", "alcryst_lapis", "kloe_rixia", "ilsa_heles", "neku_shiki", "other_ships", "solo", "mmd", "fe",
 					"non_fe", "pokemon", "granblue", "trails", "twewy"],
 			hidden: true
 		},
@@ -1396,6 +1396,48 @@
 			quote: "Commencing intervention.",
 			date_str: "November 2025",
 			tags: ["sfw", "fe", "gifts_given"],
+			hidden: false
+		},
+		{
+			//Motoiwork | Sharena | Team MZ's Sharena
+			src: ["https://cdn.imgchest.com/files/3016bf26b2e2.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ad80aeb90f5c.png",
+			title: "Friend of Lumiose City",
+			artist: "Motoiwork",
+			artist_url: "https://skeb.jp/@motoiwork",
+			art_url: "null",
+			desc: "Sharena dressed up as Team MZ's leader. Hopefully won't rack up a debt while she's at it.",
+			quote: "Hey there! Want to be in my promotional video? We'd look good together!",
+			date_str: "November 2025",
+			tags: ["sfw", "fe", "gifts_given"],
+			hidden: false
+		},
+		{
+			//Asu | Catgrid Maids | Maid for the Whitewings
+			src: ["https://cdn.imgchest.com/files/e4502f4fbe07.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/e1c49fe4ec0e.png",
+			title: "Maid for the Whitewings",
+			artist: "Aegis_Asu",
+			artist_url: "https://x.com/Aegis_Asu",
+			art_url: null,
+			desc: "Catria takes a great interest in Princess Minerva's newest maid.",
+			quote: "You said you'd do <em>anything</em> to get into the Whitewings, right?",
+			date_str: "December 2025",
+			tags: ["sfw", "fe"],
+			hidden: false
+		},
+		{
+			//fusenryo2 | Nekushiki as Robcina kiss | Under the Tree
+			src: ["https://cdn.imgchest.com/files/0efc1e12b4b3.png"],
+			thumbnail: "https://cdn.imgchest.com/files/70b89b794a74.png",
+			title: "S-Support, Shibuya Style",
+			artist: "Fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "For the 100th comm, we're once again going for my gaming OTP dressed as my 2nd gaming OTP.",
+			quote: "I love you, and no matter what the future holds, I'm going to cherish every moment.",
+			date_str: "December 2025",
+			tags: ["sfw", "neku_shiki", "TWEWY"],
 			hidden: false
 		},
 		{

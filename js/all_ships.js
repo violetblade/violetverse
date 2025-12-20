@@ -38,7 +38,7 @@ var all_ships = {
 		},
 		{
 			// Neku/Shiki
-			src: ["https://cdn.imgchest.com/files/yrgcn65dnn4.png", "https://cdn.imgchest.com/files/yd5ceb32e54.png"],
+			src: ["https://cdn.imgchest.com/files/yrgcn65dnn4.png", "https://cdn.imgchest.com/files/yd5ceb32e54.png", "https://cdn.imgchest.com/files/0c65b89e2d41.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7lxcp63bpe7.png",
 			title: "Neku/Shiki",
 			character_1: "Neku",
@@ -442,7 +442,7 @@ var all_ships = {
 		},
 		{
 			//Catria/Ingrid
-			src: ["https://cdn.imgchest.com/files/7lxcp63xe67.png", "https://cdn.imgchest.com/files/yq9c36avdv4.png"],
+			src: ["https://cdn.imgchest.com/files/7lxcp63xe67.png", "https://cdn.imgchest.com/files/yq9c36avdv4.png", "https://cdn.imgchest.com/files/f6c4e47170a6.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7w6c2rnqbky.png",
 			title: "Catria/Ingrid",
 			character_1: "Catria",
