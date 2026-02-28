@@ -1441,6 +1441,62 @@
 			hidden: false
 		},
 		{
+			//motoiwork | Sumeragi/Noin casual kiss | Off Duty
+			src: ["https://cdn.imgchest.com/files/b07476781277.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7db90cfb7197.png",
+			title: "Off Duty",
+			artist: "Motoiwork",
+			artist_url: "https://skeb.jp/@motoiwork",
+			art_url: null,
+			desc: "If Noin can't have a modern HG Taurus, then the least she deserves is a hot alcoholic tactician to make out with.",
+			quote: "You're off duty right? Then you're all mine for the night.",
+			date_str: "December 2025",
+			tags: ["sfw", "non_fe"],
+			hidden: false
+		},
+		{
+			//fusenryo | Mia and Lucina Granblue kiss | Just Bestie Things
+			src: ["https://cdn.imgchest.com/files/2283cfc394b6.png"],
+			thumbnail: "https://cdn.imgchest.com/files/32ce62d9a16f.png",
+			title: "Just Bestie Things",
+			artist: "Fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "A follow-up from the previous comm of Mia and Lucina dressed in Zeta and Bea's casual outfits. They seem to enjoy each other's new clothes quite a bit.",
+			quote: "Oh? You liked my new outfit that much?",
+			date_str: "January 2026",
+			tags: ["sfw", "fe", "mia_lucina"],
+			hidden: false
+		},
+		{
+			//Halki | Ike Mia  | Endurance Training
+			src: ["https://cdn.imgchest.com/files/331e4c3fc68b.png"],
+			thumbnail: "https://cdn.imgchest.com/files/3d16a88d87ea.png",
+			title: "Late Night Endurance Training",
+			artist: "Halki",
+			artist_url: "https://skeb.jp/@nm_ccol",
+			art_url: null,
+			desc: "Mia testing her mettle against Ike's sword, as she usually does.",
+			quote: "You're really good boss, but I can take everything you've got!",
+			date_str: "Feb 2026",
+			tags: ["nsfw", "fe", "ike_mia"],
+			hidden: false
+		},
+		{
+			//
+			src: ["https://cdn.imgchest.com/files/e32511f23a11.png"],
+			thumbnail: "https://cdn.imgchest.com/files/2b24214324a8.png",
+			title: "Getting Lucky",
+			artist: "Fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "After helping Hoenn with their little meteor crisis, Kanto's dex holders take some time to relax...",
+			quote: "We don't need to be home for a while, right?",
+			date_str: "Feb 2026",
+			tags: ["sfw", "non_fe", "pokemon"],
+			hidden: false
+		},
+		{
 			//
 			src: [""],
 			thumbnail: "",
