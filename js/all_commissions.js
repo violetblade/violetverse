@@ -1437,7 +1437,7 @@
 			desc: "For the 100th comm, we're once again going for my gaming OTP dressed as my 2nd gaming OTP.",
 			quote: "I love you, and no matter what the future holds, I'm going to cherish every moment.",
 			date_str: "December 2025",
-			tags: ["sfw", "neku_shiki", "TWEWY"],
+			tags: ["sfw", "neku_shiki", "twewy"],
 			hidden: false
 		},
 		{
