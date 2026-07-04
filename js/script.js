@@ -442,6 +442,7 @@ function translateWord(word) {
 		granblue: "☁ Granblue Fantasy",
 		trails: "⚔ Trails",
 		twewy: "🏙 TWEWY",
+		tomodachi_life: "🏠 Tomodachi Life",
 		mmd: "💻 MMD"
 	};
 	if (word in translations) {

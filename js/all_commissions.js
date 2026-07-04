@@ -11,7 +11,7 @@
 			quote: "Placeholder Quote",
 			date_str: "Beginning of Time",
 			tags: ["sfw", "nsfw", "gifts_received", "gifts_given","male_robin_lucina", "female_robin_lucina", "shamir_kiria", "ike_mia", "mia_lucina", "larcei_morgan", "ayra_altina", "alcryst_lapis", "kloe_rixia", "ilsa_heles", "neku_shiki", "other_ships", "solo", "mmd", "fe",
-					"non_fe", "pokemon", "granblue", "trails", "twewy"],
+					"non_fe", "pokemon", "granblue", "trails", "twewy", "tomodachi_life"],
 			hidden: true
 		},
 		{
@@ -1483,7 +1483,7 @@
 			hidden: false
 		},
 		{
-			//
+			//fusenryo2 | Red/Leaf | After Hoenn Kiss
 			src: ["https://cdn.imgchest.com/files/e32511f23a11.png"],
 			thumbnail: "https://cdn.imgchest.com/files/2b24214324a8.png",
 			title: "Getting Lucky",
@@ -1494,6 +1494,104 @@
 			quote: "We don't need to be home for a while, right?",
 			date_str: "Feb 2026",
 			tags: ["sfw", "non_fe", "pokemon"],
+			hidden: false
+		},
+		{
+			//DeebyFeeby | Kiria/Shamir | Purrfect Cat 
+			src: ["https://cdn.imgchest.com/files/8d9cfc0d478d.png"],
+			thumbnail: "https://cdn.imgchest.com/files/32362146d293.png",
+			title: "Purrfect Cat",
+			artist: "DeebyFeeby",
+			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
+			art_url: "https://bsky.app/profile/deebyfeeby.bsky.social/post/3mhe4mfqtfs2l",
+			desc: "Shamir is very confused on how Kiria always manages to convince her to wear these outfits... Kiria and Shamir both in Kiria's Purrfect Cat outfit.",
+			quote: "The things I do for you...",
+			date_str: "Mar 2026",
+			tags: ["sfw", "fe", "shamir_kiria"],
+			hidden: false
+		},
+		{
+			//B_PearlWhite | M!Robin/Lucina | Somniel Date Night
+			src: ["https://cdn.imgchest.com/files/5852788720c4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/1e4ff11e7104.png",
+			title: "Somniel Date Night",
+			artist: "B_PearlWhite",
+			artist_url: "https://skeb.jp/@B_PearlWhite",
+			art_url: null,
+			desc: "Lucina is reunited with Robin as an Emblem.",
+			quote: "“I’m yours for the evening, my love.",
+			date_str: "Apr 2026",
+			tags: ["sfw", "fe", "male_robin_lucina"],
+			hidden: false
+		},
+		{
+			//Fusenryo2 | Akane/Mikasa | Award Winning Kiss
+			src: ["https://cdn.imgchest.com/files/8aac62811d59.png"],
+			thumbnail: "https://cdn.imgchest.com/files/97cfede86533.png",
+			title: "Award Winning Kiss",
+			artist: "Fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "Mikasa's taken to her new world well, becoming a bodyguard for one Akane Kurokawa. And after everything the two have been through, Akane's Best Actress win sparks a very...special celebration. A crossover ship with Akane from Oshi no Ko and Mikasa from Attack on Titan, later made in Tomodachi Life: Living the Dream.",
+			quote: "Doesn't my bodyguard have a little something to congratulate me?",
+			date_str: "Apr 2026",
+			tags: ["sfw", "non_fe", "tomodachi_life"],
+			hidden: false
+		},
+		{
+			//Fusenryo2 | Jean/Velvet | Knight and Daemon
+			src: ["https://cdn.imgchest.com/files/64023f8a3bf4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/3f2f273cbf2e.png",
+			title: "Knight and Daemon",
+			artist: "Fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "Velvet thought this Tomodachi Island was ridiculous. She was at the mercy of some faceless god who could pick her up at random times, she was forced to wear this fancy dress, and she was being passionately kissed by that Jean woman-actually that last part was alright. Crossover ship made in Tomodachi Life: Living the Dream between Jean from Genshin Impact and Velvet from Tales of Berseria in her Red Rose Smile outfit.",
+			quote: "You're pretty good at this, Miss Acting Grand Master.",
+			date_str: "May 2026",
+			tags: ["sfw", "non_fe", "tomodachi_life"],
+			hidden: false
+		},
+		{
+			//Fusenryo2 | Riza/Katalina | Hot Lady Bodyguards
+			src: ["https://cdn.imgchest.com/files/b664df69f124.png"],
+			thumbnail: "https://cdn.imgchest.com/files/c8003c3b35b7.png",
+			title: "Hot Lady Bodyguards",
+			artist: "Fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "The Amestrians get acquianted with the Grandcypher crew, and Katalina and Riza's admiration to each other's loyalty and devotion turned into a bit of...attraction...This is a crossover ship made in Tomodachi Life: Living the Dream between Katalina from Granblue Fantasy and Riza Hawkeye from Fullmetal Alchemist.",
+			quote: "Our friends can handle themselves for the night. For now, I just want to be with you.",
+			date_str: "May 2026",
+			tags: ["sfw", "non_fe", "granblue", "tomodachi_life"],
+			hidden: false
+		},
+		{
+			//Wwitchi | Shamir/Kiria | A Peak at a Weave of Fortune
+			src: ["https://cdn.imgchest.com/files/94833002bec2.png"],
+			thumbnail: "https://cdn.imgchest.com/files/863051f7bd9f.png",
+			title: "A Peek at a Weave of Fortune",
+			artist: "Wwitchi",
+			artist_url: "https://x.com/wwitchii_",
+			art_url: "https://x.com/wwitchii_/status/2073217731504038242",
+			desc: "Shamir's not entirely sure why Dagdan outfits are all the rage these days, but Kiria seems to be a big fan. Shamir dressed in Ursula's outfit, and Kiria dressed up in Leda's outfit, both from Fortune's Weave",
+			quote: "I think we both look quite good in your homeland's clothing, Shamir.",
+			date_str: "June 2026",
+			tags: ["sfw", "fe", "shamir_kiria"],
+			hidden: false
+		},
+		{
+			//Fusenryo2 | Alcryst/Lapis | Beach Protection.
+			src: ["https://cdn.imgchest.com/files/dc0dcd5382a3.png"],
+			thumbnail: "https://cdn.imgchest.com/files/34d2a8e4861a.png",
+			title: "Beach Protection",
+			artist: "Fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "Lapis' guide on properly protecting your lord at the beach. 1) Make sure they have plenty of shade. It wouldn't do to get a heat stroke from things getting too hot! 2) Make sure they're well supported. Hold them close, and use anything around you to help. 3) A little tongue-",
+			quote: "Who'd knew Lapis would get like <em>this</em> when I said her swimsuit was cute..'",
+			date_str: "July 2026",
+			tags: ["sfw", "fe", "alcryst_lapis"],
 			hidden: false
 		},
 		{
